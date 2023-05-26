@@ -60,7 +60,7 @@ A naive Bayes Classifier was fit.
 
 **Confusion Matrix**
 
-![Alt Text](3.png)
+![Alt Text](4.png)
 
 **Classification Report**
 
