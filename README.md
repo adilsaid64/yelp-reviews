@@ -1,4 +1,4 @@
-# Using Natural Language Processing to Analyze Yelp Reviews
+# Predicting Customer Satisfaction from Yelp Reviews using NLP
 
 Yelp provides a crowd-sourced review forum for businesses and services. People share their reviews and rate businesses and services. Other users can also rate other people's reviews.
 
