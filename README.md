@@ -10,16 +10,16 @@ My personal learning objective from this project is to explore the basics of Nat
 
 **Summary Statistics**
 
-|           |    **stars** |     **cool** |   **useful** |    **funny** |
-|----------:|-------------:|-------------:|-------------:|-------------:|
-| **count** | 10000.000000 | 10000.000000 | 10000.000000 | 10000.000000 |
-|  **mean** |     3.777500 |     0.876800 |     1.409300 |     0.701300 |
-|  **std**  |     1.214636 |     2.067861 |     2.336647 |     1.907942 |
-|  **min**  |     1.000000 |     0.000000 |     0.000000 |     0.000000 |
-|  **25%**  |     3.000000 |     0.000000 |     0.000000 |     0.000000 |
-|  **50%**  |     4.000000 |     0.000000 |     1.000000 |     0.000000 |
-|  **75%**  |     5.000000 |     1.000000 |     2.000000 |     1.000000 |
-|  **max**  |     5.000000 |    77.000000 |    76.000000 |    57.000000 |
+|           | **stars** | **cool** | **useful** | **funny** |
+|----------:|----------:|---------:|-----------:|----------:|
+| **count** |     10000 |    10000 |      10000 |     10000 |
+|  **mean** |      3.78 |     0.88 |       1.41 |      0.70 |
+|  **std**  |      1.21 |     2.08 |       2.34 |      1.91 |
+|  **min**  |         1 |        0 |          0 |         0 |
+|  **25%**  |         3 |        0 |          0 |         0 |
+|  **50%**  |         4 |        0 |          1 |         0 |
+|  **75%**  |         5 |        1 |          2 |         1 |
+|  **max**  |         5 |       77 |         76 |        57 |
 
 **Observations**
 - The dataset contains 10000 reviews and 10 features.
@@ -29,3 +29,4 @@ My personal learning objective from this project is to explore the basics of Nat
 **Thoughts**
 - It would be intresting to know how long each review is. How much detail, time and effort do people put into their reviews.
 
+![Alt Text](1.png)
